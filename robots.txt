@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bnv-gamma.vercel.app/sitemap.xml
